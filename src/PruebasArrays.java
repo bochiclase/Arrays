@@ -21,6 +21,7 @@ public class PruebasArrays {
 		//Opción inversa 
 		for (int i = x.length - 1; i >= 0; i--) {
 			System.out.println(x[i] * 4);
+			
 		}
 
 	}
